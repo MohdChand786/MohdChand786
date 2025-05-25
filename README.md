@@ -25,7 +25,7 @@
 **Learning & Using:**  
 `Data Science` | `Machine Learning` | `DevOps` | `Data Warehousing & BI`
 
-**Desigining:**
+**Desigining:** 
 `Figma` | `Canva` | `Adobe Express`
 
 ---
@@ -33,8 +33,7 @@
 ### 🔥 Featured Projects
 
 - 💸 **Student Financial Manager** — A tool to help students track earnings & expenses  
-- 🌐 **Personal Portfolio Website** — Built from scratch using HTML, CSS, and animations  
-- 📊 **Data Science Projects** — Applied concepts from Cisco & Simplilearn courses  
+- 🌐 **Personal Portfolio Website** — Built from scratch using HTML, CSS, and animations
 
 ---
 
