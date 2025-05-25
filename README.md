@@ -25,6 +25,9 @@
 **Learning & Using:**  
 `Data Science` | `Machine Learning` | `DevOps` | `Data Warehousing & BI`
 
+**Desigining:**
+`Figma` | `Canva` | `Adobe Express`
+
 ---
 
 ### 🔥 Featured Projects
