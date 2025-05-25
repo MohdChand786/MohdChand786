@@ -1,37 +1,63 @@
-Hi, I'm Mohammed Shaik Chand 👋
-Engineering Student | Tech Enthusiast | Builder of Useful Things
+<h1 align="center">Hi, I'm Mohammed Shaik Chand 👋</h1>
+<h3 align="center">CSE (Data Science) Student | Developer | Problem Solver</h3>
 
-👨‍💻 About Me
-🎓 B.Tech CSE (Data Science) | Graduating in 2026
-🧠 Love solving real-world problems through code & creative thinking
-🚀 Currently leading TekNiva – a student-run tech club to inspire innovation
-📈 Learning never stops — exploring ML, web dev, and startup culture
-🌱 Self-starter who believes in learning by building
-☕ I run on chai, curiosity, and midnight debugging sessions
+---
 
-🧰 Tech Stack
-Languages:
-Python | C++ | JavaScript | HTML | CSS
+### 👨‍💻 About Me
 
-Frontend:
-React.js | Tailwind CSS | Bootstrap | Figma (UI & UX design)
+- 🎓 3rd Year Computer Science (DS) Undergrad  
+- 🧠 Curious mind with a love for building & debugging real-world solutions  
+- 🌱 Learning and working on **Python**, **C++**, **R**, and **Machine Learning**
+- 💼 Chief Coordinator of **TekNiva**, the Technical Club of our college  
+- 🚀 Built projects including a **Student Financial Management App**, **Portfolio Website**, and much more  
+- 💡 Open to **Collaborations**, **Hackathons**, and anything that sparks creativity and tech
 
-Backend & Database:
-Node.js | Express.js | Firebase | MongoDB | MySQL
+---
 
-App Dev:
-React Native | Expo
+### 🧰 Tech Stack
 
-Tools & Platforms:
-Git & GitHub | VS Code | Postman | Ubuntu | Netlify | Vercel
+**Languages:**  
+`C++` | `Python` | `C` | `R` | `HTML` | `CSS` | `JavaScript`
 
-🌐 Let's Connect
-Always up for collaborations, events, or just tech talk.
-Reach out on LinkedIn or drop a message – let's build something cool together!
+**Tools & Frameworks:**  
+`GitHub` | `Firebase` | `VS Code` | `Bootstrap` | `Simplilearn R Studio`
 
-https://www.linkedin.com/in/mohd-chand-522ba0265/
-https://x.com/MohdChand542272
+**Learning & Using:**  
+`Data Science` | `Machine Learning` | `DevOps` | `Data Warehousing & BI`
 
-📊 GitHub Stats
+---
 
+### 🔥 Featured Projects
 
+- 💸 **Student Financial Manager** — A tool to help students track earnings & expenses  
+- 🌐 **Personal Portfolio Website** — Built from scratch using HTML, CSS, and animations  
+- 📊 **Data Science Projects** — Applied concepts from Cisco & Simplilearn courses  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaikchand&show_icons=true&theme=github_dark" height="180em" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikchand&theme=github-dark" height="180em"/>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikchand&layout=compact&theme=tokyonight" height="180em"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/your-link)  
+- [Twitter](https://x.com/your-handle)  
+- 📫 Email: yourmail@example.com  
+
+---
+
+### 🤝 Open to Collaborations
+
+If you’re into tech, design, data, or just want to build cool stuff —  
+Hit me up! Always open for **Hackathons**, **Web Dev Collabs**, or **Startup Projects**.
+
+---
