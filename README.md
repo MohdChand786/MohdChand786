@@ -8,8 +8,8 @@
 - 🎓 3rd Year Computer Science (DS) Undergrad  
 - 🧠 Curious mind with a love for building & debugging real-world solutions  
 - 🌱 Learning and working on **Python**, **C++**, **R**, and **Machine Learning**
-- 💼 Chief Coordinator of **TekNiva**, the Technical Club of our college  
-- 🚀 Built projects including a **Student Financial Management App**, **Portfolio Website**, and much more  
+- 💼 Founder and Chief Coordinator of **TekNiva**, the Technical Club of our college  
+- 🚀 Building projects including a **Student Financial Management App**, **Portfolio Website**, and much more  
 - 💡 Open to **Collaborations**, **Hackathons**, and anything that sparks creativity and tech
 
 ---
@@ -49,9 +49,9 @@
 
 ### 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-link)  
-- [Twitter](https://x.com/your-handle)  
-- 📫 Email: yourmail@example.com  
+- [LinkedIn](https://www.linkedin.com/in/mohd-chand-522ba0265/)  
+- [Twitter](https://x.com/MohdChand542272)  
+- 📫 Email: mohdshaikchand786@gmail.com  
 
 ---
 
